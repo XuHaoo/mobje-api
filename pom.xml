@@ -92,7 +92,7 @@
                     <transformationSets>
                         <transformationSet>
                             <dir>${jmeter.result.jtl.dir}</dir>
-                            <stylesheet>src\test\resources\jmeter-results-report-loadtest.xsl</stylesheet>
+                            <stylesheet>src\test\resources\jmeter-results-report_21.xsl</stylesheet>
                             <outputDir>${jmeter.result.html.dir}</outputDir>
                             <fileMappers>
                                 <fileMapper
